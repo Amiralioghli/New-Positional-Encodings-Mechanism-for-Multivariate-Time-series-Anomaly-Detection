@@ -1,1 +1,1 @@
-# New-Positional-Encodings-Mechanism-for-Multivariate-Time-series-Anomaly-Detection
+# Enhancing multivariate time-series anomaly detection with positional encoding mechanisms in transformers
